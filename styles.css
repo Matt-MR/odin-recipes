@@ -1,0 +1,15 @@
+/* This is the CSS file for the recipe page */ 
+
+* {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: lightgray;
+
+}
+
+
+h1 {
+
+    color: crimson;
+}
